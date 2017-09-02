@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "ta.css",
+	"sources": [
+		"ta.scss"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,IAAI,CAAC;EAKH,gBAAgB,EAAE,gLAAuK,GAC1L;EAND,AACE,IADE,CACF,GAAG,CAAC;IACF,KAAK,EAAE,MAAM,GACd"
+}
